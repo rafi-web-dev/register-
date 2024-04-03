@@ -1,0 +1,15 @@
+{
+
+    "domain": "is-not-a.dev",
+    "subdomain": "rafi",
+
+    "owner": {
+        "email": "rafiabrer47@gmail.com"
+    },
+
+    "record": {
+        "NS": ["ns51.cloudns.net", "ns53.cloudns.net", "ns52.cloudns.net", "ns54.cloudns.net"]
+    },
+
+    "proxied": false
+}
